@@ -1,0 +1,91 @@
+ <div class="row">
+                <div class="col-sm-12"> 
+                  <h4 class="media-heading ">
+                                  <a target="_parent">Game Mode</a></h4>
+                </div>
+                </div>
+          <div class="row">
+                <div class="col-sm-12"> 
+
+                    <!-- Begin Listing: 609 W GRAVERS LN-->
+                    <div class="brdr bgc-fff pad-10 box-shad btm-mrg-10 win property-listing" >
+                        <div class="media" >
+                            <div class="clearfix visible-sm"></div>
+
+                            <div class="media-body fnt-smaller row">
+                                <ul class=" mrg-0 btm-mrg-10 col-md-3 clr-535353" style="list-style: none">
+                                    <li><img src="img/ipad.png"  class="summoner"> summoner name</li>
+                                     <li><img src="img/ipad.png" class="summoner"> summoner name</li>
+                                    <li><img src="img/ipad.png" class="summoner"> summoner name</li>
+                                     <li><img src="img/ipad.png"  class="summoner"> summoner name</li>
+                                     <li><img src="img/ipad.png" class="summoner"> summoner name</li>
+                                </ul>
+
+                                 <ul class=" mrg-0 btm-mrg-10 col-md-2 clr-535353" style="list-style: none">
+                                    <li style="margin-bottom: 3px;"><a  > Runes</a></li>
+                                         <li style="margin-bottom: 3px;"><a   > Runes</a></li>
+                                        <li style="margin-bottom: 3px;"><a >Runes</a></li>
+                                        <li style="margin-bottom: 3px;"><a   > Runes</a></li>
+                                         <li style="margin-bottom: 3px;"><a   >Runes</a></li>
+                                </ul>
+
+                                 <ul class=" mrg-0 btm-mrg-10 col-md-3 clr-535353" style="list-style: none">
+                                        <li style="margin-bottom: 3px;"><a href="#" > Masteries</a></li>
+                                       <li style="margin-bottom: 3px;"><a href="#" > Masteries</a></li>
+                                      <li style="margin-bottom: 3px;"><a href="#" > Masteries</a></li>
+                                        <li style="margin-bottom: 3px;"><a href="#" > Masteries</a></li>
+                                         <li style="margin-bottom: 3px;"><a href="#" > Masteries</a></li>
+                                </ul>
+
+                                
+
+                            </div>
+                        </div>
+                    </div><!-- End Listing-->
+
+
+                    
+
+                   
+
+
+                     <div class="brdr bgc-fff pad-10 box-shad btm-mrg-20 loss property-listing" >
+                        <div class="media" >
+                            <div class="clearfix visible-sm"></div>
+
+                            <div class="media-body fnt-smaller row">
+                                 
+                                <ul class=" mrg-0 btm-mrg-10 col-md-3 clr-535353" style="list-style: none">
+                                    <li><img src="img/ipad.png"  class="summoner"> summoner name</li>
+                                     <li><img src="img/ipad.png" class="summoner"> summoner name</li>
+                                    <li><img src="img/ipad.png" class="summoner"> summoner name</li>
+                                     <li><img src="img/ipad.png"  class="summoner"> summoner name</li>
+                                     <li><img src="img/ipad.png" class="summoner"> summoner name</li>
+                                </ul>
+
+                                     <ul class=" mrg-0 btm-mrg-10 col-md-2 clr-535353" style="list-style: none">
+                                    <li style="margin-bottom: 3px;"><a href="#" > Runes</a></li>
+                                         <li style="margin-bottom: 3px;"><a href="#" > Runes</a></li>
+                                        <li style="margin-bottom: 3px;"><a href="#" > Runes</a></li>
+                                        <li style="margin-bottom: 3px;"><a href="#" > Runes</a></li>
+                                         <li style="margin-bottom: 3px;"><a href="#" >Runes</a></li>
+                                </ul>
+
+                                 <ul class=" mrg-0 btm-mrg-10 col-md-3 clr-535353" style="list-style: none">
+                                        <li style="margin-bottom: 3px;"><a href="#" > Masteries</a></li>
+                                       <li style="margin-bottom: 3px;"><a href="#" > Masteries</a></li>
+                                      <li style="margin-bottom: 3px;"><a href="#" > Masteries</a></li>
+                                        <li style="margin-bottom: 3px;"><a href="#" > Masteries</a></li>
+                                         <li style="margin-bottom: 3px;"><a href="#" > Masteries</a></li>
+                                </ul>
+
+
+
+                                
+                            </div>
+                        </div>
+                    </div><!-- End Listing-->
+
+
+                      </div>
+                    </div><!-- End Listing-->
